@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ADD6A90F050FB4ED9D0F4D8485E5848D88ECF366",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ADD6A90F050FB4ED9D0F4D8485E5848D88ECF366" : 9223372036854775807,
+    "DA359A24EF91031C8B406C528E2366F2B9A203C1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1CF14A9A-C6BB-4018-805B-F6C5E07DAC31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ADD6A90F050FB4ED9D0F4D8485E5848D88ECF366" : "PIWorks\/",
+    "DA359A24EF91031C8B406C528E2366F2B9A203C1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PIWorksChallenge",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PIWorksChallenge.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HasanYusuf\/PIWorks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADD6A90F050FB4ED9D0F4D8485E5848D88ECF366"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HasanYusuf\/PIWorks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA359A24EF91031C8B406C528E2366F2B9A203C1"
+    }
+  ]
+}
