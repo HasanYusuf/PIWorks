@@ -23,6 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1D19F5C31EC50CEB000BE6E3 /* distictCount.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = distictCount.h; sourceTree = "<group>"; };
+		1D19F5C41EC50D4E000BE6E3 /* InputObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InputObject.h; sourceTree = "<group>"; };
+		1D19F5C51EC52147000BE6E3 /* FinalOutput.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FinalOutput.h; sourceTree = "<group>"; };
 		1DF6F40A1EC4E72B00AE5833 /* PIWorksChallenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PIWorksChallenge; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF6F40D1EC4E72B00AE5833 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				1DF6F40D1EC4E72B00AE5833 /* main.cpp */,
+				1D19F5C31EC50CEB000BE6E3 /* distictCount.h */,
+				1D19F5C41EC50D4E000BE6E3 /* InputObject.h */,
+				1D19F5C51EC52147000BE6E3 /* FinalOutput.h */,
 			);
 			path = PIWorksChallenge;
 			sourceTree = "<group>";
@@ -248,6 +254,7 @@
 				1DF6F4131EC4E72B00AE5833 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
