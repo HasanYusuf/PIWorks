@@ -75,7 +75,6 @@ int main(int argc, const char * argv[]) {
     }
     cout<<"Cliet Number"<<interArray.size()<<endl;
     
-    
     bool distinctCountExist=0;
     int distinctPlayCountIndex=-2;
     for(int i=0;i<interArray.size();i++){
